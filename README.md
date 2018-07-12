@@ -1,6 +1,7 @@
-#《Head First 设计模式》Python语言实现
+# 《Head First 设计模式》Python语言实现
+
 |序号|模式名称|
-|---:|---:|
+|---:|---|
 |1|[策略模式（Strategy Pattern）](https://github.com/qqlzfmn/HeadFirstDesignPatterns/tree/master/StrategyPattern)|
 |2|[观察者模式（Observer Pattern）](https://github.com/qqlzfmn/HeadFirstDesignPatterns/tree/master/ObserverPattern)|
 |3|[装饰器模式（Decorator Pattern）](https://github.com/qqlzfmn/HeadFirstDesignPatterns/tree/master/DecoratorPattern)|
